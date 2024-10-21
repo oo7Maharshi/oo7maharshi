@@ -3,7 +3,7 @@
 I'm a passionate software developer based in India 🇮🇳, always excited to learn new technologies and build innovative solutions. With over four years of experience in modern web development, I specialize in creating elegant, user-friendly applications that solve real-world problems.
 
 ## ✨ About Me
-- 🔭 I’m currently working on cutting-edge web applications using **React.js, Node.js, and Nest.js**.
+- 🔭 I’m currently working on cutting-edge web applications using **Node JS, Nest JS and React Js**.
 - 🌱 Constantly learning about **cloud technologies (AWS, GCP)**, **containerization (Docker, Kubernetes)**, and the latest **JavaScript frameworks**.
 - 👯 I’m looking to collaborate on **open-source projects** or **exciting startups** that aim to make a difference.
 - 💬 Ask me about **full-stack development, microservices, TypeScript**, or even **DIY woodworking projects**!
